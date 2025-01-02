@@ -1,10 +1,9 @@
-package comparatorCollectors.task1;
+package comparatorCollectors.task1.task1;
 
-import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class Main {
+public class HTMLFileYaratish {
     public static void main(String[] args) {
         String htmlContent = """
                 ‹ table>
