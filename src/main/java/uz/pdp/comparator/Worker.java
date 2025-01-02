@@ -1,4 +1,4 @@
-package uz.pdp.lambdaExpression;
+package uz.pdp.comparator;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -9,12 +9,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class Ishchi {
-   /* private String full_name;
-    private String country;
-    private String position;
-    private int age;*/
-
+public class Worker {
     private String full_name;
     private int id;
     private String country;
